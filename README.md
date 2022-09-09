@@ -1,2 +1,2 @@
 # JDBC
-This repository have some JDBC Projects using Core Java and Oracle11g.
+This repository have demo of JDBC conncetion with Oracle11g.
