@@ -1,2 +1,2 @@
 # JDBC
-This repository have demo of JDBC connection with Oracle11g.
+This repository has demo of JDBC connection with Oracle11g.
